@@ -1,0 +1,7 @@
+0;0;0;0;0;0.0
+pierre;123.123.123-12;(11) 11111-1111;1@demacol.com;1;20.0
+Pierre Vieira;123.456.789-10;(31) 99283-1412;pierre@demacol.com;a;9.4629
+Pierre Vieira;111.111.111-11;(31) 99800-5262;pierre@demacol.com;j;7.594
+Pierre Vieira;000.000.000-00;(31) 99800-5262;pierre@demacol.com;q;29.6
+Pierre Vieira;123.123.123-12;(31) 99800-5262;pierre@demacol.com;ddd;11.266
+Pierre Vieira;222.222.222-22;(31) 99800-5262;pierre@demacol.com;sa;28.616
